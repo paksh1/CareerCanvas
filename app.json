@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "ReactApp1",
+    "slug": "ReactApp1",
+    "extra": {
+      "eas": {
+        "projectId": "a39bfa21-87c0-431e-a020-2d584858ff05"
+      }
+    },
+    "android": {
+      "package": "React.Job.Search.App"
+    }
+  }
+}
